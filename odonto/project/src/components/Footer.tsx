@@ -40,7 +40,7 @@ export function Footer() {
             <h3 className="text-white font-semibold mb-4">Contacto</h3>
             <ul className="space-y-2">
               <li>contact@odontosmart.com</li>
-              <li>+1 (555) 123-4567</li>
+              <li>+57 (555) 123-4567</li>
               <li className="flex space-x-4 mt-4">
                 <a href="#" className="hover:text-blue-400"><Facebook className="h-5 w-5" /></a>
                 <a href="#" className="hover:text-blue-400"><Twitter className="h-5 w-5" /></a>
@@ -52,7 +52,7 @@ export function Footer() {
         </div>
         
         <div className="border-t border-gray-800 mt-12 pt-8 text-sm text-center">
-          <p>&copy; {new Date().getFullYear()} OdontoSmart. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} OdontoSmart. Todos los derechos reservados Politecnico grancolombiano.</p>
         </div>
       </div>
     </footer>

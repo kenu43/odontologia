@@ -30,7 +30,7 @@ export function DashboardPreview() {
               </div>
               <div className="bg-purple-50 p-4 rounded-lg">
                 <BarChart3 className="h-8 w-8 text-purple-600 mb-2" />
-                <h4 className="text-2xl font-bold text-gray-900">$45k</h4>
+                <h4 className="text-2xl font-bold text-gray-900">$15.000.000</h4>
                 <p className="text-sm text-gray-600">Ingresos mensuales</p>
               </div>
               <div className="bg-orange-50 p-4 rounded-lg">

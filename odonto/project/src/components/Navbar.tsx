@@ -8,10 +8,10 @@ export function Navbar() {
     <nav className="bg-white shadow-lg fixed w-full z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
-          <div className="flex items-center">
-            <Stethoscope className="h-8 w-8 text-blue-600" />
+            <div className="flex items-center">
+            <img src='https://cdn6.aptoide.com/imgs/5/5/7/5574dd31b9dea4d21eee5de7a61b7f8d_icon.png?w=128' alt="OdontoSmart logo" className="h-12 w-auto" />
             <span className="ml-2 text-xl font-bold text-gray-800">OdontoSmart</span>
-          </div>
+            </div>
           
           <div className="hidden md:flex items-center space-x-8">
             <a href="#inicio" className="text-gray-600 hover:text-blue-600">Inicio</a>

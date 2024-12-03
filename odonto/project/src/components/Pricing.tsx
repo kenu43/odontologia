@@ -5,7 +5,7 @@ export function Pricing() {
   const plans = [
     {
       name: 'Básico',
-      price: '29',
+      price: '50,000',
       description: 'Ideal para consultorios pequeños que están comenzando',
       features: [
         'Gestión de citas básica',
@@ -17,7 +17,7 @@ export function Pricing() {
     },
     {
       name: 'Profesional',
-      price: '59',
+      price: '120,000',
       description: 'Perfecto para consultorios en crecimiento',
       popular: true,
       features: [
@@ -31,7 +31,7 @@ export function Pricing() {
     },
     {
       name: 'Empresarial',
-      price: '99',
+      price: '250,000',
       description: 'Para clínicas grandes y múltiples sucursales',
       features: [
         'Todo lo del plan Profesional',

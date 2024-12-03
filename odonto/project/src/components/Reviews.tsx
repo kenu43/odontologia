@@ -11,7 +11,7 @@ export function Reviews() {
       rating: 5
     },
     {
-      name: "Dr. Carlos Ruiz",
+      name: "Dr. Camilo Andres",
       role: "Ortodoncista",
       image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80",
       content: "El sistema de recordatorios automáticos ha reducido significativamente las citas perdidas. Mis pacientes adoran la app.",
@@ -21,7 +21,7 @@ export function Reviews() {
       name: "Dra. Ana Martínez",
       role: "Cirujana Maxilofacial",
       image: "https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80",
-      content: "Los reportes analíticos me han ayudado a tomar mejores decisiones para mi práctica. El soporte técnico es excelente.",
+      content: "La agenda de citas implementado por OdontoSmart ha sido de verdad tan increible para mi.",
       rating: 5
     }
   ];
